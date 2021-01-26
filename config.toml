@@ -1,0 +1,4 @@
+baseURL = "https://poemsintermezzolatinah.vercel.app"
+languageCode = "en-us"
+title = "Cute Poems 2021"
+theme = "tale-hugo-master"
